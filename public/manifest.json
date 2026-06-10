@@ -1,0 +1,34 @@
+{
+  "name": "ArtSpace Map - 艺术空间探索",
+  "short_name": "ArtSpace",
+  "description": "根据旅行目的地推荐当地美术馆和博物馆",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1A1714",
+  "theme_color": "#1A1714",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["travel", "education", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "/images/gallery-1.jpg",
+      "sizes": "1024x1536",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "艺术空间探索"
+    }
+  ]
+}
